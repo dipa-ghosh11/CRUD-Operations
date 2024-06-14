@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import mpngoose from "mongoose";
+
 
 export const database=()=>{
     mongoose
